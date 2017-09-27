@@ -91,7 +91,7 @@
 	 * @param  {[type]} location 地址
 	 */
 	var getUrl = function(location){
-		return 'http://api.map.baidu.com/geocoder/v2/?address='+location+'&output=json&ak=gQsCAgCrWsuN99ggSIjGn5nO&callback=?'
+		return 'http://api.map.baidu.com/geocoder/v2/?address='+location+'&output=json&ak=qaADMgG3IGooPHY0yyb8n4foudhlzeQu'
 	}
 
 })()
